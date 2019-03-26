@@ -1,10 +1,10 @@
 body {
-    background: #f0f0f0;
- }
+  background: #f0f0f0;
+}
 .szvideobox {
-    display:block;
-    width:60%;
-    min-width:240px;  /* or thereabouts */
-    margin: 1em auto;
-    box-shadow: 0.5em 0.5em 0.5em #999;
-  }
+  display:block;
+  width:90%;
+  min-width:240px;  /* or thereabouts */
+  margin: 1em auto;
+  box-shadow: 0.5em 0.5em 0.5em #999;
+}
